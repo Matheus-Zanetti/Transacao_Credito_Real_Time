@@ -17,9 +17,7 @@ Este projeto tem como objetivo detectar transações fraudulentas em tempo real 
 - [Etapas do Projeto](#etapas-do-projeto)
 - [Instalação e Configuração](#instalação-e-configuração)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+
 
 ## 🌟 Visão Geral
 
@@ -74,3 +72,12 @@ O sistema é composto por um pipeline de dados que:
 
 - Docker e Docker Compose (para facilitar a configuração dos serviços).
 - Python 3.8+.
+
+## 🚀 Uso
+Após a configuração, o sistema estará pronto para:
+
+Capturar transações em tempo real.
+
+Classificar as transações como aprovadas ou fraudulentas.
+
+Visualizar os resultados no Kibana.
