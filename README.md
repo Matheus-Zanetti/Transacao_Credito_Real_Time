@@ -44,7 +44,7 @@ O sistema é composto por um pipeline de dados que:
 - **Kibana**: Visualização e monitoramento dos dados.
 - **Python**: Linguagem principal para scripts e modelo de Machine Learning.
 
-## 🚀 Etapas do Projeto
+## 📄 Etapas do Projeto
 
 1. **Criação do Modelo de Previsão**:
    - Utilizar o PyCaret para treinar um modelo de Machine Learning com dados históricos de transações.
